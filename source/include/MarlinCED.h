@@ -8,6 +8,7 @@
 #include <iomanip>
 #include "marlin/Processor.h"
 #include "marlin/Global.h"
+#include "gear/GearMgr.h"
 
 #include "ced_cli.h"
 
